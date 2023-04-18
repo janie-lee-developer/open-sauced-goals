@@ -1,9 +1,39 @@
 [
   {
+    "full_name": "ericpkatz/acme-product-search",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Stannie-Lim/stanniecleanjpfpcode",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "reworkd/AgentGPT",
+    "stargazers_count": 14819,
+    "open_issues_count": 73,
+    "forks_count": 3636
+  },
+  {
+    "full_name": "chatengine-io/react-chat-engine",
+    "stargazers_count": 106,
+    "open_issues_count": 45,
+    "forks_count": 27
+  },
+  {
+    "full_name": "tatsu-lab/stanford_alpaca",
+    "stargazers_count": 20911,
+    "open_issues_count": 133,
+    "forks_count": 2991
+  },
+  {
     "full_name": "novuhq/blog",
-    "stargazers_count": 506,
+    "stargazers_count": 508,
     "open_issues_count": 5,
-    "forks_count": 387
+    "forks_count": 392
   },
   {
     "full_name": "adam-marey/Reactos",
